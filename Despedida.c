@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int edad_mental_ranqui = 2;
+  int edad_mental_ranqui_enSiglos = 2;
   double hectometros_nepe_ranqui = 0.1;
     printf( "\n   Oigan si quieren que me vaya me lo decís...." );
   printf( "\n   Esto definitivamente es una despedida, adiós." );
