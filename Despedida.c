@@ -10,5 +10,6 @@ int main() {
   printf("\n\tLa edad mental de ranqui es : %d years", edad_mental_ranqui);
   printf("\n\tA ranqui le mide: %f years", hectometros_nepe_ranqui);
   printf("Oigan esto no es gracioso eh");
+  printf("Callese vegestorio senil, que le mide 0.1 hectometros");
   return 0;
 }
